@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
